@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack development, C#, and Python
 - 📫 How to reach me: email at countzeroasl@gmail.com
 - 😄 Pronouns: he/him
-- 
+
 <!--
 **countzeroasl/countzeroasl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
