@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Count Zero or Josh Walles
+### Hi there 👋  I'm Count Zero (@countzeroasl) or Josh Walles
 - 🔭 I’m currently working on writing tabletop RPGs and sortware for the plastics engineering industry
 - 🌱 I’m currently learning full stack development, C#, and Python
 - 📫 How to reach me: email at countzeroasl@gmail.com
